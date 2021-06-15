@@ -1,8 +1,11 @@
-# Markup to HTML Converter
+# Markdown to HTML Converter
 
-Dieses Projekt konvertiert Code, der in Markup geschrieben wurde in HTML. Der Converter ist in der `index.html` als WYSIWYG-Fenster dargestellt. in den Dazugehörigen Dateien findet man dann die JS und SASS-Sheets wieder in denen auch Syntax-Highlightings hinterlegt sind.
+Dieses Projekt konvertiert Code, der in Markdown geschrieben wurde in HTML. Der Converter ist in der `index.html` als WYSIWYG-Fenster dargestellt. in den dazugehörigen Dateien findet man dann die JS und SASS-Sheets wieder in denen auch Syntax-Highlightings hinterlegt sind.
 
-Der Konverter basiert auf [diesem YouTube-Video](#) von Unleashed Design. Das Repository ist außerdem im Moment noch generiert aus der UD-Entwicklungsumgebung
+Der Konverter basiert auf [diesem YouTube-Video](https://youtu.be/Ypy4stWX1EE) von Unleashed Design. Das Repository ist außerdem im Moment noch generiert aus der UD-Entwicklungsumgebung.
+
+[MarkDown Guide Website](https://www.markdownguide.org)
+[MarkDown Official Website](https://daringfireball.net/projects/markdown/)
 
 [![Deploy-Page](https://github.com/Johannes-Schiel/ud-basic-webdev-setup/actions/workflows/pages.yml/badge.svg?branch=master)](https://github.com/Johannes-Schiel/ud-basic-webdev-setup/actions/workflows/pages.yml)
 [![Unit-Testing](https://github.com/Johannes-Schiel/ud-basic-webdev-setup/actions/workflows/unittest.yml/badge.svg?branch=master)](https://github.com/Johannes-Schiel/ud-basic-webdev-setup/actions/workflows/unittest.yml)
