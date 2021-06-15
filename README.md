@@ -4,8 +4,9 @@ Dieses Projekt konvertiert Code, der in Markdown geschrieben wurde in HTML. Der 
 
 Der Konverter basiert auf [diesem YouTube-Video](https://youtu.be/Ypy4stWX1EE) von Unleashed Design. Das Repository ist außerdem im Moment noch generiert aus der UD-Entwicklungsumgebung.
 
-[MarkDown Guide Website](https://www.markdownguide.org)
-[MarkDown Official Website](https://daringfireball.net/projects/markdown/)
+[Markdown Guide Website](https://www.markdownguide.org)
+
+[Markdown Official Website](https://daringfireball.net/projects/markdown/)
 
 [![Deploy-Page](https://github.com/Johannes-Schiel/ud-basic-webdev-setup/actions/workflows/pages.yml/badge.svg?branch=master)](https://github.com/Johannes-Schiel/ud-basic-webdev-setup/actions/workflows/pages.yml)
 [![Unit-Testing](https://github.com/Johannes-Schiel/ud-basic-webdev-setup/actions/workflows/unittest.yml/badge.svg?branch=master)](https://github.com/Johannes-Schiel/ud-basic-webdev-setup/actions/workflows/unittest.yml)
