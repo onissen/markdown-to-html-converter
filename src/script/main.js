@@ -9,9 +9,13 @@ const INPUT = document.querySelector('.input');
 const OUTPUT = document.querySelector('.output');
 
 marked.setOptions({
-  breaks: false,
+  breaks: true,
   mangle: true,
   headerIds: true,
+  highlight: (code, lang) => {
+    const language = highlight.getLanguage(lang) ? lang : 'plaintext';
+    return highlight.highlight(code, {language}).value;
+  }
 });
 
 INPUT.addEventListener('keyup',  ($event) => {
