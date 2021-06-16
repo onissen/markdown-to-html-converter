@@ -1,5 +1,7 @@
 /*jshint esversion: 6 */
 import marked from 'marked';
+import highlight from 'highlight.js';
+
 
 /** Boilerplate **/
 
