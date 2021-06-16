@@ -5,7 +5,7 @@ Dieses Projekt konvertiert Code, der in Markdown geschrieben wurde in HTML. Der 
 Der Konverter basiert auf [diesem YouTube-Video](https://youtu.be/Ypy4stWX1EE) von Unleashed Design. Das Repository ist außerdem im Moment noch generiert aus der UD-Entwicklungsumgebung.
 
 ## Was noch gehen würde
- Man könnte allen Text der im Input steht hier wie normalen Code stylen weil er in dem Output-Container als normaler Code ausgegeben wird.
+ Man könnte allen Text der im Input steht wie normalen Code stylen weil er in dem Output-Container als normaler Code ausgegeben wird.
 
 Highlight.js gibt dem Text der als Code geschrieben wird verschiedene Klassen, sodass mann in SASS jede einzelne Klasse stylen und so ein eigenes Syntax Highlighting erstellen könnte.
 
